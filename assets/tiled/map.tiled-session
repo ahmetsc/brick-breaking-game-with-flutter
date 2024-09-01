@@ -1,0 +1,54 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level-02.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "level-01.tmx": {
+            "scale": 0.8371875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.11944755505795,
+                "y": 184.5464725643897
+            }
+        },
+        "level-02.tmx": {
+            "scale": 0.8371875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.11944755505795,
+                "y": 184.5464725643897
+            }
+        },
+        "map.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/home/ahmetsc/Masaüstü/mobile game/mat/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "map.tsx",
+        "level-01.tmx",
+        "level-02.tmx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "map.tsx",
+        "level-01.tmx",
+        "level-02.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
